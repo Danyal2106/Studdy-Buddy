@@ -1,1 +1,2 @@
 # Studdy-Buddy
+# StuddyBuddy
